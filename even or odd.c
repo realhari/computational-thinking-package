@@ -9,7 +9,7 @@ int main()
     else if
         printf("%d is odd.",number);
     else
-        printf("%d invalid.",number);
+        printf("%d is invalid.",number);
 
     return 0;
 }
